@@ -1,8 +1,6 @@
 # Ola-July_2024-Booking-analysis
 
 SQL Questions:
-<br>
-<br>
 1. Retrieve all successful bookings:
 <br>
 <br>
