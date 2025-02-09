@@ -28,7 +28,8 @@ SQL Questions:
 <br>
 <br>
 10. List all incomplete rides along with the reason:
-
+<br>
+<br>
 Power BI Questions:
 1. Ride Volume Over Time
 2. Booking Status Breakdown
