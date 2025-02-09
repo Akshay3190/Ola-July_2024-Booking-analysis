@@ -1,6 +1,8 @@
 # Ola-July_2024-Booking-analysis
+<br>
+<br>
 SQL Questions:
-1. Retrieve all successful bookings:
+1.Retrieve all successful bookings:
 <br>
 <br>
 2. Find the average ride distance for each vehicle type:
