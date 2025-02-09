@@ -30,7 +30,11 @@ SQL Questions:
 10. List all incomplete rides along with the reason:
 <br>
 <br>
+<br>
+<br>
 Power BI Questions:
+<br>
+<br>
 1. Ride Volume Over Time
 <br>
 <br>
