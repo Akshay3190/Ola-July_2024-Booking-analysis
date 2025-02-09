@@ -32,12 +32,30 @@ SQL Questions:
 <br>
 Power BI Questions:
 1. Ride Volume Over Time
+<br>
+<br>
 2. Booking Status Breakdown
+<br>
+<br>
 3. Top 5 Vehicle Types by Ride Distance
+<br>
+<br>
 4. Average Customer Ratings by Vehicle Type
+<br>
+<br>
 5. cancelled Rides Reasons
+<br>
+<br>
 6. Revenue by Payment Method
+<br>
+<br>
 7. Top 5 Customers by Total Booking Value
+<br>
+<br>
 8. Ride Distance Distribution Per Day
+<br>
+<br>
 9. Driver Ratings Distribution
+<br>
+<br>
 10. Customer vs. Driver Ratings
