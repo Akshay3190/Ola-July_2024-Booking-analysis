@@ -2,6 +2,8 @@
 <br>
 <br>
 SQL Questions:
+<br>
+<br>
 1.Retrieve all successful bookings:
 <br>
 <br>
